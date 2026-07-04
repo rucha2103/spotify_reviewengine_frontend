@@ -1,4 +1,4 @@
-const API_URL = "http://3.108.177.249:8000";
+const API_URL = "https://toll-parts-rec-witch.trycloudflare.com";
 
 export const fetchInsights = async () => {
   try {
