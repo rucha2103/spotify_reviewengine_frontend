@@ -1,4 +1,4 @@
-const API_URL = "https://toll-parts-rec-witch.trycloudflare.com";
+const API_URL = "https://tennis-prerequisite-timeline-racks.trycloudflare.com";
 
 export const fetchInsights = async () => {
   try {
