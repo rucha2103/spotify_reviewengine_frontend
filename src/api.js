@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080";
+const API_URL = "http://3.108.177.249:8000";
 
 export const fetchInsights = async () => {
   try {
