@@ -1,4 +1,4 @@
-const API_URL = "https://tennis-prerequisite-timeline-racks.trycloudflare.com";
+const API_URL = "https://myself-tracked-compressed-london.trycloudflare.com";
 
 export const fetchInsights = async () => {
   try {
